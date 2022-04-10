@@ -12,5 +12,5 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 2. Run notebooks as usual by using a jupyter notebook server, Vscode etc.
 
 # Contents
-# * Machine Learning
+* #Machine Learning
 
