@@ -15,6 +15,6 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 <ul>
  <li><h2>Machine Learning</h2></li>
  <ul>
-  <li>Predicting Google Play Store App Prices: A model to predict the value of a given Application on Google Play Store using various statistical analysis tools. Identified the best strategy that a client can use to monetize their application utilizing machine learning.</li>
+  <li><a href="#">Predicting Google Play Store App Prices: A model to predict the value of a given Application on Google Play Store using various statistical analysis tools. Identified the best strategy that a client can use to monetize their application utilizing machine learning.</a></li>
  </ul>
 </ul>
