@@ -9,7 +9,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
 
 # Contents
 <ul>
- <li><h2>Machine Learning</h2></li>
+ <li><h2>Data Science</h2></li>
  <ul>
   <li><a href="https://github.com/ortmasiu/data-science-portfolio/blob/main/Google%20Playstore%20Analytics.ipynb">Predicting Google Play Store App Prices</a>: A model to predict the value of a given Application on Google Play Store using various statistical analysis tools. Identified the best strategy that a client can use to monetize their application utilizing machine learning.</li>
   
