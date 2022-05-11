@@ -13,7 +13,7 @@ _Note: Data used in the projects (accessed under data directory) is for demonstr
  <ul>
   <li><a href="https://github.com/ortmasiu/data-science-portfolio/blob/main/Google%20Playstore%20Analytics.ipynb">Predicting Google Play Store App Prices</a>: A model to predict the value of a given Application on Google Play Store using various statistical analysis tools. Identified the best strategy that a client can use to monetize their application utilizing machine learning.</li>
   
-  <li><a href="https://github.com/ortmasiu/data-science-portfolio/blob/main/Predicting%20Movie%20Revenues.ipynb">Predicting Movie Revene</a>:A model to predict the reveneue of a given movie on the Box Office  using various statistical analysis tools. Identified the best strategy that a film maker can use to monetize their film utilizing machine learning.</li>
+  <li><a href="https://github.com/ortmasiu/data-science-portfolio/blob/main/Predicting%20Movie%20Revenues.ipynb">Predicting Movie Revene</a>: A model to predict the reveneue of a given movie on the Box Office  using various statistical analysis tools. Identified the best strategy that a film maker can use to monetize their film utilizing machine learning.</li>
   
   <li><a href="https://github.com/ortmasiu/data-science-portfolio/blob/main/Google%20Playstore%20Analytics.ipynb">ML with Decision Trees and Random Forests</a>: Using Decision Trees and Random Forests to predict whether a lender will pay their loan back. Uses publically available data from LendingClub.com</li>
   
